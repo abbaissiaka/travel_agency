@@ -215,8 +215,9 @@ header nav ul li a
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
-hr
+.hr1
 {
+    border-bottom: 1px solid grey;
     width: 150px;
     margin-top: 20px;
     position: relative;
